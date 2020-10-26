@@ -1,0 +1,22 @@
+﻿
+    body {
+    background-color: #ad9d9d;
+        }
+    hr {
+        border-style: none;
+        border-top-style: dotted;
+     border-width: medium;
+        border-color: grey;
+        width: 30%;
+        }
+h1 {
+    color:deeppink;
+}
+
+h2 {
+    color: deeppink;
+}
+
+h3 {
+    color: deeppink;
+}
